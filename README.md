@@ -2,16 +2,16 @@
 
 ## 🔗 Table of Contents
 
-- [🚀 SwiftInfer](#🚀-swiftinfer)
-  - [🔗 Table of Contents](#🔗-table-of-contents)
-  - [📌 Overview](#📌-overview)
-  - [🚗 Quick Start](#🚗-quick-start)
-    - [🛠 Installation](#🛠-installation)
-    - [🕹 Run Llama example](#🕹-run-llama-example)
-  - [⚖️ Benchmark](#⚖️-benchmark)
-  - [🗺 Roadmap](#🗺-roadmap)
-  - [📃 Acknowledgement](#📃-acknowledgement)
-  - [📝 Citation](#📝-citation)
+- [🚀 SwiftInfer](#-swiftinfer)
+  - [🔗 Table of Contents](#-table-of-contents)
+  - [📌 Overview](#-overview)
+  - [🚗 Quick Start](#-quick-start)
+    - [🛠 Installation](#-installation)
+    - [🕹 Run Llama example](#-run-llama-example)
+  - [⚖️ Benchmark](#-benchmark)
+  - [🗺 Roadmap](#-roadmap)
+  - [📃 Acknowledgement](#-acknowledgement)
+  - [📝 Citation](#-citation)
 
 ## 📌 Overview
 
