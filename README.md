@@ -155,7 +155,7 @@ The results (20 rounds of conversations) are:
 
 ![performance](./assets/performance.jpg)
 
-We are still working on further performance improvement and adapt to the TensorRT V0.7.1 APIs. We also notice that TensorRT-LLM has integrated StreamingLLM in their [example](https://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/llama#run-llama-with-streamingllm) but it seems it is more suitable for single text generation instead of multi-round conversations. 
+We are still working on further performance improvement and adapting to the TensorRT V0.7.1 APIs. We also notice that TensorRT-LLM has integrated StreamingLLM in their [example](https://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/llama#run-llama-with-streamingllm) but it seems it is more suitable for single text generation instead of multi-round conversations. 
 
 ## 🗺 Roadmap
 
@@ -167,7 +167,7 @@ We are still working on further performance improvement and adapt to the TensorR
 
 ## 📃 Acknowledgement
 
-This work is inspired by the Streaming-LLM paper with the aim to make it usable for production. Throughout development, we have referenced the following materials and we wish to acknowledge their efforts and contribution in the open-source community and academia.
+This work is inspired by Streaming-LLM to make it usable for production. Throughout development, we have referenced the following materials and we wish to acknowledge their efforts and contribution to the open-source community and academia.
 
 - Streaming-LLM
     - [Paper](https://arxiv.org/abs/2309.17453)
@@ -180,7 +180,7 @@ This work is inspired by the Streaming-LLM paper with the aim to make it usable 
 
 ## 📝 Citation
 
-If you find StreamingLLM and our TensorRT implementation useful, please kindly cite our repository and the original work proposed by [Xiao](https://github.com/Guangxuan-Xiao) from [MIT Han Lab](https://github.com/mit-han-lab).
+If you find StreamingLLM and our TensorRT implementation useful, please kindly cite our repository and the original work proposed by [Xiao et al.](https://github.com/Guangxuan-Xiao) from [MIT Han Lab](https://github.com/mit-han-lab).
 
 ```bibtex
 # our repository
